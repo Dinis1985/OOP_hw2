@@ -1,4 +1,4 @@
-package OOP_hw2.Data;
+package Data;
 
 public abstract class User {
     private String FIO;

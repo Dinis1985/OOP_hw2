@@ -1,6 +1,6 @@
-package OOP_hw2.Util;
+package Util;
 
-import OOP_hw2.Data.User;
+import Data.User;
 
 public class WriterToTxt {
     private String path;

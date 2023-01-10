@@ -1,4 +1,4 @@
-package OOP_hw2.Data;
+package Data;
 
 import java.util.List;
 

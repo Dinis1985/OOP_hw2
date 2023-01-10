@@ -1,9 +1,9 @@
-package OOP_hw2.Service;
+package Service;
 
-import OOP_hw2.Data.Student;
-import OOP_hw2.Data.StudentGroup;
-import OOP_hw2.Data.Teacher;
-import OOP_hw2.Util.ReaderFromTxt;
+import Data.Student;
+import Data.StudentGroup;
+import Data.Teacher;
+import Util.ReaderFromTxt;
 
 public class StudentGroupServiceImpl implements StudentGroupService {
     private StudentGroup group;

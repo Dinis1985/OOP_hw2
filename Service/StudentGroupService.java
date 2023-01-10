@@ -1,7 +1,7 @@
-package OOP_hw2.Service;
+package Service;
 
-import OOP_hw2.Data.Student;
-import OOP_hw2.Data.Teacher;
+import Data.Student;
+import Data.Teacher;
 
 public interface StudentGroupService {
     Teacher read (Teacher teacher);

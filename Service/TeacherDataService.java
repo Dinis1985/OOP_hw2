@@ -1,8 +1,8 @@
-package OOP_hw2.Service;
+package Service;
 
-import OOP_hw2.Data.User;
-import OOP_hw2.Util.ReaderFromTxt;
-import OOP_hw2.Util.WriterToTxt;
+import Data.User;
+import Util.ReaderFromTxt;
+import Util.WriterToTxt;
 
 public class TeacherDataService implements DataService {
     @Override

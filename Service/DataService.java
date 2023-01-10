@@ -1,6 +1,6 @@
-package OOP_hw2.Service;
+package Service;
 
-import OOP_hw2.Data.User;
+import Data.User;
 
 public interface DataService {
     void write(User user);

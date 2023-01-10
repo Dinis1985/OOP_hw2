@@ -1,8 +1,8 @@
-package OOP_hw2.Util;
+package Util;
 
-import OOP_hw2.Data.Student;
-import OOP_hw2.Data.Teacher;
-import OOP_hw2.Data.User;
+import Data.Student;
+import Data.Teacher;
+import Data.User;
 
 public class ReaderFromTxt {
     private String path;

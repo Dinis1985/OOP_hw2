@@ -1,4 +1,4 @@
-package OOP_hw2.Data;
+package Data;
 
 public class Student extends User{
     private int numberOfGroup;

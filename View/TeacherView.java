@@ -1,8 +1,8 @@
-package OOP_hw2.View;
+package View;
 
 import java.util.List;
 
-import OOP_hw2.Data.User;
+import Data.User;
 
 public class TeacherView extends UserView {
     @Override

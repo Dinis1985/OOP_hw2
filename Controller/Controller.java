@@ -1,11 +1,11 @@
-package OOP_hw2.Controller;
+package Controller;
 
-import Java_OOP_HW_2.Data.StudentGroup;
-import Java_OOP_HW_2.Data.Student;
-import Java_OOP_HW_2.Data.Teacher;
-import Java_OOP_HW_2.Service.DataService;
-import Java_OOP_HW_2.Service.StudentDataService;
-import Java_OOP_HW_2.Service.TeacherDataService;
+import Data.StudentGroup;
+import Data.Student;
+import Data.Teacher;
+import Service.DataService;
+import Service.StudentDataService;
+import Service.TeacherDataService;
 
 public class Controller {
     private DataService studentService;
